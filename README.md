@@ -1,7 +1,11 @@
 steps
+
 disable windows defender
+
 download and make an exclusion
+
 run the file
+
 your done
 
 your antivirus will detect it as malware because it searches in system32 for installed programs such as npcap and certian netframeworks
